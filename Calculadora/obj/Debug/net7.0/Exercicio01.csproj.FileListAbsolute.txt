@@ -1,0 +1,14 @@
+C:\Task\Exercicio01\bin\Debug\net7.0\Exercicio01.exe
+C:\Task\Exercicio01\bin\Debug\net7.0\Exercicio01.deps.json
+C:\Task\Exercicio01\bin\Debug\net7.0\Exercicio01.runtimeconfig.json
+C:\Task\Exercicio01\bin\Debug\net7.0\Exercicio01.dll
+C:\Task\Exercicio01\bin\Debug\net7.0\Exercicio01.pdb
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfo.cs
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.dll
+C:\Task\Exercicio01\obj\Debug\net7.0\refint\Exercicio01.dll
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.pdb
+C:\Task\Exercicio01\obj\Debug\net7.0\Exercicio01.genruntimeconfig.cache
+C:\Task\Exercicio01\obj\Debug\net7.0\ref\Exercicio01.dll
