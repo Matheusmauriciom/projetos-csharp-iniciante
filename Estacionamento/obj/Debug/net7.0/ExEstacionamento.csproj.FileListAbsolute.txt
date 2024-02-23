@@ -1,0 +1,56 @@
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\bin\Debug\net7.0\ExEstacionamento.exe
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\bin\Debug\net7.0\ExEstacionamento.deps.json
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\bin\Debug\net7.0\ExEstacionamento.runtimeconfig.json
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\bin\Debug\net7.0\ExEstacionamento.dll
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\bin\Debug\net7.0\ExEstacionamento.pdb
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.AssemblyInfoInputs.cache
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.AssemblyInfo.cs
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.csproj.CoreCompileInputs.cache
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.dll
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\refint\ExEstacionamento.dll
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.pdb
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ExEstacionamento.genruntimeconfig.cache
+C:\DIO\Modulo01 - Sistema Estacionamento\ExEstacionamento\obj\Debug\net7.0\ref\ExEstacionamento.dll
+C:\Matheus\trilha-net-fundamentos-desafio-att\bin\Debug\net7.0\ExEstacionamento.exe
+C:\Matheus\trilha-net-fundamentos-desafio-att\bin\Debug\net7.0\ExEstacionamento.deps.json
+C:\Matheus\trilha-net-fundamentos-desafio-att\bin\Debug\net7.0\ExEstacionamento.runtimeconfig.json
+C:\Matheus\trilha-net-fundamentos-desafio-att\bin\Debug\net7.0\ExEstacionamento.dll
+C:\Matheus\trilha-net-fundamentos-desafio-att\bin\Debug\net7.0\ExEstacionamento.pdb
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.AssemblyInfoInputs.cache
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.AssemblyInfo.cs
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.csproj.CoreCompileInputs.cache
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.dll
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\refint\ExEstacionamento.dll
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.pdb
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ExEstacionamento.genruntimeconfig.cache
+C:\Matheus\trilha-net-fundamentos-desafio-att\obj\Debug\net7.0\ref\ExEstacionamento.dll
+C:\Task\ExericioEstacionamento03\bin\Debug\net7.0\ExEstacionamento.exe
+C:\Task\ExericioEstacionamento03\bin\Debug\net7.0\ExEstacionamento.deps.json
+C:\Task\ExericioEstacionamento03\bin\Debug\net7.0\ExEstacionamento.runtimeconfig.json
+C:\Task\ExericioEstacionamento03\bin\Debug\net7.0\ExEstacionamento.dll
+C:\Task\ExericioEstacionamento03\bin\Debug\net7.0\ExEstacionamento.pdb
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.AssemblyInfoInputs.cache
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.AssemblyInfo.cs
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.csproj.CoreCompileInputs.cache
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.dll
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\refint\ExEstacionamento.dll
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.pdb
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ExEstacionamento.genruntimeconfig.cache
+C:\Task\ExericioEstacionamento03\obj\Debug\net7.0\ref\ExEstacionamento.dll
+C:\Task\03Estacionamento\bin\Debug\net7.0\ExEstacionamento.exe
+C:\Task\03Estacionamento\bin\Debug\net7.0\ExEstacionamento.deps.json
+C:\Task\03Estacionamento\bin\Debug\net7.0\ExEstacionamento.runtimeconfig.json
+C:\Task\03Estacionamento\bin\Debug\net7.0\ExEstacionamento.dll
+C:\Task\03Estacionamento\bin\Debug\net7.0\ExEstacionamento.pdb
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.AssemblyInfoInputs.cache
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.AssemblyInfo.cs
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.csproj.CoreCompileInputs.cache
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.dll
+C:\Task\03Estacionamento\obj\Debug\net7.0\refint\ExEstacionamento.dll
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.pdb
+C:\Task\03Estacionamento\obj\Debug\net7.0\ExEstacionamento.genruntimeconfig.cache
+C:\Task\03Estacionamento\obj\Debug\net7.0\ref\ExEstacionamento.dll
