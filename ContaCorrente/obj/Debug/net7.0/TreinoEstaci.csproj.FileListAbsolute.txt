@@ -1,0 +1,14 @@
+C:\Matheus\TreinoEstaci\bin\Debug\net7.0\TreinoEstaci.exe
+C:\Matheus\TreinoEstaci\bin\Debug\net7.0\TreinoEstaci.deps.json
+C:\Matheus\TreinoEstaci\bin\Debug\net7.0\TreinoEstaci.runtimeconfig.json
+C:\Matheus\TreinoEstaci\bin\Debug\net7.0\TreinoEstaci.dll
+C:\Matheus\TreinoEstaci\bin\Debug\net7.0\TreinoEstaci.pdb
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.AssemblyInfoInputs.cache
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.AssemblyInfo.cs
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.csproj.CoreCompileInputs.cache
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.dll
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\refint\TreinoEstaci.dll
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.pdb
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\TreinoEstaci.genruntimeconfig.cache
+C:\Matheus\TreinoEstaci\obj\Debug\net7.0\ref\TreinoEstaci.dll
