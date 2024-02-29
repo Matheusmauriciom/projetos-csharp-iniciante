@@ -1,0 +1,14 @@
+C:\Matheus\Excelular\bin\Debug\net7.0\Excelular.exe
+C:\Matheus\Excelular\bin\Debug\net7.0\Excelular.deps.json
+C:\Matheus\Excelular\bin\Debug\net7.0\Excelular.runtimeconfig.json
+C:\Matheus\Excelular\bin\Debug\net7.0\Excelular.dll
+C:\Matheus\Excelular\bin\Debug\net7.0\Excelular.pdb
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.AssemblyInfoInputs.cache
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.AssemblyInfo.cs
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.csproj.CoreCompileInputs.cache
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.dll
+C:\Matheus\Excelular\obj\Debug\net7.0\refint\Excelular.dll
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.pdb
+C:\Matheus\Excelular\obj\Debug\net7.0\Excelular.genruntimeconfig.cache
+C:\Matheus\Excelular\obj\Debug\net7.0\ref\Excelular.dll
